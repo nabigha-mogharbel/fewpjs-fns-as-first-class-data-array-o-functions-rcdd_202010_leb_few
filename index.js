@@ -30,8 +30,10 @@ const routine=[wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog
 let i=0;
 let array=[];
 
-const exerciseDog=function(){
-  routine.map(routine[routine[i]]);
+const exerciseDog=function(dogName, dogBreed){
+  for (i; i<routine.length; i++){
+    
+  }
 };
 //for (i; i<routine.length; i++){(routine[i],routine[i](dogName, dogBreed));}}
      
