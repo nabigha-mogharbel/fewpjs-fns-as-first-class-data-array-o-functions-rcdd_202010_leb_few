@@ -32,7 +32,7 @@ let array=[];
 let fff=routine[i]
 function exerciseDog()
 for (i; i<routine.length; i++){
-exerciseDog(dogName, dogBreed){
+exerciseDog(fff(dogName, dogBreed)){
 }}
 
 exerciseDog('jj', 'jj');
