@@ -33,7 +33,7 @@ let array=[];
 function exerciseDog(dogName, dogBreed){
   for (i; i<routine.length; i++){
     let fff=routine[i];
-    fff();
+    array.push(fff());
   }
 }
 exerciseDog('jj', 'jj');
