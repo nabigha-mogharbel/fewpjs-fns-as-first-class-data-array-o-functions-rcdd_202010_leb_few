@@ -36,6 +36,4 @@ const exerciseDog=function(dogName, dogBreed){
     fff()();
   }
 };
-//for (i; i<routine.length; i++){(routine[i],routine[i](dogName, dogBreed));}}
-     
-exerciseDog(dogName, dogBreed);
+exerciseDog('jj', 'jj');
