@@ -32,7 +32,7 @@ let array=[];
 
 const exerciseDog=function(dogName, dogBreed){
   for (i; i<routine.length; i++){
-    
+    routine[i]()()
   }
 };
 //for (i; i<routine.length; i++){(routine[i],routine[i](dogName, dogBreed));}}
