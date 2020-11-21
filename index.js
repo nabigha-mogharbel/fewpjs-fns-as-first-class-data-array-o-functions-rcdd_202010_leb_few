@@ -32,7 +32,8 @@ let array=[];
 
 const exerciseDog=function(dogName, dogBreed){
   for (i; i<routine.length; i++){
-    routine[i]()();
+    let fff=routine[i];
+    fff()();
   }
 };
 //for (i; i<routine.length; i++){(routine[i],routine[i](dogName, dogBreed));}}
